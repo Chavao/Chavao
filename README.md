@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Chavão! 👋
+
+🇧🇷 I'm from Brazil <br />
+💻 Currently working on [Globo.com](https://github.com/globocom)
+
+### Find me on the web 🌎
+
+💼 [LinkedIn](https://br.linkedin.com/in/chavao) <br />
+🐦 [Twitter](https://twitter.com/Chavao) <br />
+🚀 [Site](https://www.chavao.net/)
 
 <!--
 **Chavao/Chavao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
