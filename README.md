@@ -1,7 +1,7 @@
 ### Hi there, I'm Chavão! 👋
 
 🇧🇷 I'm from Brazil <br />
-💻 Currently working on [Globo.com](https://github.com/globocom)
+💻 Currently working on [Cryptoys.com](https://cryptoys.com/) by [OnChain Studios](https://www.onchainstudios.com/)
 
 ### Find me on the web 🌎
 
