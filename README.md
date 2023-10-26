@@ -1,7 +1,8 @@
 ### Hi there, I'm Chavão! 👋
 
 🇧🇷 I'm from Brazil <br />
-💻 Currently working on [Globo.com](https://github.com/globocom)
+💻 Senior Software Engineer <br />
+⚙️ Golang, Blockchain, Python, AWS, GCP, Agile
 
 ### Find me on the web 🌎
 
