@@ -6,7 +6,6 @@
 ### Find me on the web 🌎
 
 💼 [LinkedIn](https://br.linkedin.com/in/chavao) <br />
-🐦 [Twitter](https://twitter.com/Chavao) <br />
 🚀 [Site](https://www.chavao.net/)
 
 <!--
