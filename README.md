@@ -2,7 +2,7 @@
 
 🇧🇷 I'm from Brazil <br />
 💻 Senior Software Engineer <br />
-⚙️ Golang, Blockchain, Python, AWS, GCP, Agile
+⚙️ Golang, Python, Backend, AWS, GCP, Agile
 
 ### Find me on the web 🌎
 
