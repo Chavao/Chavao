@@ -4,6 +4,11 @@
 💻 Senior Software Engineer <br />
 ⚙️ Golang, Python, Backend, AWS, GCP, Agile
 
+### Projects 🔧
+
+🧠 [Graphol](https://github.com/Graphol/graphol-lang) — Towards a New Language <br />
+📰 [vimfiles](https://github.com/Chavao/vimfiles) — ✨ My awesome vimfiles ✨
+
 ### Find me on the web 🌎
 
 💼 [LinkedIn](https://br.linkedin.com/in/chavao) <br />
