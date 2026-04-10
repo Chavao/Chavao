@@ -2,7 +2,7 @@
 
 🇧🇷 I'm from Brazil <br />
 💻 Senior Software Engineer <br />
-⚙️ Golang, Python, Backend, AWS, GCP, Agile
+⚙️ Golang, Python, AI Engineer, Backend, AWS, GCP, Agile
 
 ### Projects 🔧
 
