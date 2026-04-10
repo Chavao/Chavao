@@ -6,7 +6,7 @@
 
 ### Projects 🔧
 
-🧠 [Graphol](https://github.com/Graphol/graphol-lang) — Towards a New Language <br />
+🧠 [Graphol](https://github.com/graphol-lang/graphol) — Towards a New Language <br />
 📰 [vimfiles](https://github.com/Chavao/vimfiles) — ✨ My awesome vimfiles ✨
 
 ### Find me on the web 🌎
