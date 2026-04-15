@@ -7,7 +7,9 @@
 ### Projects 🔧
 
 🧠 [Graphol](https://github.com/graphol-lang/graphol) — Towards a New Language <br />
-📰 [vimfiles](https://github.com/Chavao/vimfiles) — ✨ My awesome vimfiles ✨
+📰 [vimfiles](https://github.com/Chavao/vimfiles) — ✨ My awesome vimfiles ✨ <br />
+📝 [mdpreview](https://github.com/Chavao/mdpreview) — Markdown render preview <br />
+🧮 [charcount](https://github.com/Chavao/charcount) — A tool for counting characters in texts
 
 ### Find me on the web 🌎
 
