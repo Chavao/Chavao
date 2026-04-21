@@ -1,7 +1,7 @@
 ### Hi there, I'm Chavão! 👋
 
 🇧🇷 I'm from Brazil <br />
-💻 Senior Software Engineer <br />
+💻 Staff Software Engineer <br />
 ⚙️ Golang, Python, AI Engineer, Backend, AWS, GCP, Agile
 
 ### Projects 🔧
