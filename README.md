@@ -10,7 +10,8 @@
 📰 [vimfiles](https://github.com/Chavao/vimfiles) — ✨ My awesome vimfiles ✨ <br />
 📝 [mdpreview](https://github.com/Chavao/mdpreview) — Markdown render preview <br />
 🧮 [charcount](https://github.com/Chavao/charcount) — A tool for counting characters in texts <br />
-🕓 [clocktui-rs](https://github.com/Chavao/clocktui-rs) — A TUI clock
+🕓 [clocktui-rs](https://github.com/Chavao/clocktui-rs) — A TUI clock <br />
+🚫 [block-sites-chrome-extension](https://github.com/Chavao/block-sites-chrome-extension) — Another site blocker extension
 
 ### Find me on the web 🌎
 
