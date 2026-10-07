@@ -2,16 +2,17 @@
 
 🇧🇷 I'm from Brazil <br />
 💻 Staff Software Engineer <br />
-⚙️ Golang, Python, AI Engineer, Backend, AWS, GCP, Agile
+⚙️ Python, Golang, AI, TypeScript, Node, Cloud (AWS, GCP), Agile
 
 ### Projects 🔧
 
-🧠 [Graphol](https://github.com/graphol-lang/graphol) — Towards a New Language <br />
-📰 [vimfiles](https://github.com/Chavao/vimfiles) — ✨ My awesome vimfiles ✨ <br />
+▶️ [rukia-player](https://github.com/Chavao/rukia-player) — A terminal-based Spotify player <br />
+🔄 [r](https://github.com/Chavao/r) — Rerun previous command with a new executable <br />
 📝 [mdpreview](https://github.com/Chavao/mdpreview) — Markdown render preview <br />
 🧮 [charcount](https://github.com/Chavao/charcount) — A tool for counting characters in texts <br />
 🕓 [clocktui-rs](https://github.com/Chavao/clocktui-rs) — A TUI clock <br />
-🚫 [block-sites-chrome-extension](https://github.com/Chavao/block-sites-chrome-extension) — Another site blocker extension
+🚫 [block-sites-chrome-extension](https://github.com/Chavao/block-sites-chrome-extension) — Another site blocker extension <br />
+📰 [vimfiles](https://github.com/Chavao/vimfiles) — ✨ My awesome vimfiles ✨ <br />
 
 ### Find me on the web 🌎
 
